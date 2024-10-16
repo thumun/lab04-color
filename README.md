@@ -7,13 +7,5 @@ My version: [Moving Stripes](https://www.shadertoy.com/view/M3lBDl)
 
 
 ## 2. Damaged VCR
-Fork [this base code](https://www.shadertoy.com/view/stGBWR) and replicate this animation. Don't worry about getting it exactly right!! Go for overall flavor.
+My version: [VCR](https://www.shadertoy.com/view/MXsfWl#)
 ![4bfb5193037528965a9590e4a69514f4 (1)](https://user-images.githubusercontent.com/1758825/192655484-1fcef422-b611-48ea-a7ab-f1a7de8f3fb1.gif)
-
-## Extra Credit
-Too easy? Give [nyan cat](https://www.shadertoy.com/view/stGBDR) a rainbow!
-## Submission
-- Create a pull request to this repository
-- In the README, include the names of both your team members
-- In the README, create a link to your shader toy solutions
-- Make sure your shadertoy is set to UNLISTED or PUBLIC (so we can see them!)
